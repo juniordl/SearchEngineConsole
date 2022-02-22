@@ -20,7 +20,7 @@ Winner in {Searcher2} : .net
 Total Winner: java
 ```
 ### Search engine configuration
-search engines can be added with the following configuration file and its properties:
+Search engines can be added in the appsettings.json configuration file with the following properties:
 * ***baseuri*** - api uri without parameters
 * ***searcherName*** - name provider search engine
 * ***headers*** - list of headers requires to request
@@ -41,7 +41,6 @@ search engines can be added with the following configuration file and its proper
       "nodesResult": {
         "searchInformation": "totalResults"
       }
-    },
     }
   ]
 }
