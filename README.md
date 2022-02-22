@@ -1,18 +1,12 @@
-# Search Engine Application
+# Search Engine Console
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-
-This is a console application that receives multiple arguments, does a search in the search engines defined in a json file and obtains the total of results to compare them, this solution is composed of three layers
-
-  - Entity: classes of the objects used
-  - Logic: call for services and comparison logic
-  - Presentation
+This is a console application built on C# with .NET Core. That receives multiple arguments, does a search in the search engines defined in a json file and obtains the total of results to compare them, this solution implement onion arquitecture and dependency inversion principle.
 
 ### Execution
 
-1. Download all content folder CompileSeachEngine
-2. Open the cmd console in the application path and enter the words to search
+1. Download compressed file SearchEngine.exe.rar
+2. Unzip it in your prefered folder
+3. Open the cmd console in the application path and enter the words to search
 ```sh
 F:\path> SearchEngine.exe java .net
 
