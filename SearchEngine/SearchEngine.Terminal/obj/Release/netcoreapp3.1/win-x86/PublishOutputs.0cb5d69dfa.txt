@@ -1,0 +1,4 @@
+D:\Projects\SearchEngine\SearchEngine.pdb
+D:\Projects\SearchEngine\SearchEngine.Core.pdb
+D:\Projects\SearchEngine\SearchEngine.Infrastructure.pdb
+D:\Projects\SearchEngine\SearchEngine.exe

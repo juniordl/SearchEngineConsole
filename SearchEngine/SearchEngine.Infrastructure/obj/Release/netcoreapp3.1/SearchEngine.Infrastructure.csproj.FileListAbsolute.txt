@@ -1,0 +1,13 @@
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\bin\Release\netcoreapp3.1\SearchEngine.Infrastructure.deps.json
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\bin\Release\netcoreapp3.1\SearchEngine.Infrastructure.dll
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\bin\Release\netcoreapp3.1\SearchEngine.Infrastructure.pdb
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\bin\Release\netcoreapp3.1\SearchEngine.Core.dll
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\bin\Release\netcoreapp3.1\SearchEngine.Core.pdb
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\obj\Release\netcoreapp3.1\SearchEngine.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\obj\Release\netcoreapp3.1\SearchEngine.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\obj\Release\netcoreapp3.1\SearchEngine.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\obj\Release\netcoreapp3.1\SearchEngine.Infrastructure.AssemblyInfo.cs
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\obj\Release\netcoreapp3.1\SearchEngine.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\obj\Release\netcoreapp3.1\SearchEngine.Infrastructure.csproj.CopyComplete
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\obj\Release\netcoreapp3.1\SearchEngine.Infrastructure.dll
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Infrastructure\obj\Release\netcoreapp3.1\SearchEngine.Infrastructure.pdb

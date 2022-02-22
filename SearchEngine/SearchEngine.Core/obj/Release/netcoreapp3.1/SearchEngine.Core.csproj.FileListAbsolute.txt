@@ -1,0 +1,10 @@
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\bin\Release\netcoreapp3.1\SearchEngine.Core.deps.json
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\bin\Release\netcoreapp3.1\SearchEngine.Core.dll
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\bin\Release\netcoreapp3.1\SearchEngine.Core.pdb
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\obj\Release\netcoreapp3.1\SearchEngine.Core.csproj.AssemblyReference.cache
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\obj\Release\netcoreapp3.1\SearchEngine.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\obj\Release\netcoreapp3.1\SearchEngine.Core.AssemblyInfoInputs.cache
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\obj\Release\netcoreapp3.1\SearchEngine.Core.AssemblyInfo.cs
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\obj\Release\netcoreapp3.1\SearchEngine.Core.csproj.CoreCompileInputs.cache
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\obj\Release\netcoreapp3.1\SearchEngine.Core.dll
+D:\Projects\SearchEngine\SearchEngine\SearchEngine.Core\obj\Release\netcoreapp3.1\SearchEngine.Core.pdb

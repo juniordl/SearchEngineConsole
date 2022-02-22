@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "ImEReZ0kKkfNSRgfVlZT+2GfMP7kEsqxgk7xSoEyb/Ptm7ZVILpamRwYmXsDHLy6ciXkykYAcCXm9DZDWPzcXg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\SearchEngine\\SearchEngine\\SearchEngine.Infrastructure\\SearchEngine.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.22\\microsoft.extensions.configuration.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.22\\microsoft.extensions.configuration.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.22\\microsoft.extensions.configuration.binder.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.22\\microsoft.extensions.configuration.fileextensions.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.22\\microsoft.extensions.configuration.json.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.22\\microsoft.extensions.dependencyinjection.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.22\\microsoft.extensions.dependencyinjection.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.22\\microsoft.extensions.fileproviders.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.22\\microsoft.extensions.fileproviders.physical.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.22\\microsoft.extensions.filesystemglobbing.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.logging\\3.1.22\\microsoft.extensions.logging.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.22\\microsoft.extensions.logging.abstractions.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.options\\3.1.22\\microsoft.extensions.options.3.1.22.nupkg.sha512",
+    "C:\\Users\\jcjdu\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.22\\microsoft.extensions.primitives.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
